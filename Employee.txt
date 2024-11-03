@@ -1,0 +1,6 @@
+ 100                   Archit                    120000                     CU                       1
+ 101                   Umar                    120000                     CU                       2
+ 103                   Arth                    120000                     CU                       3
+ 104                   Amogh                    120000                     CU                       4
+ 105                   Shawan                    120000                     CU                       5
+ 209                   ajfkdF                    3214                     FAGGS                       2
